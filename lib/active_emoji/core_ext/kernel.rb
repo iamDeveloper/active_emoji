@@ -13,4 +13,8 @@ module Kernel
   alias âš ï¸ warn
   def ğŸ”Ÿ; 10 end
   def ğŸ’¯; 100 end
+  def ğŸ”ª í ½ chop
+  def ğŸ‘ fail
+  def ğŸ´ fork
+í±
 end
