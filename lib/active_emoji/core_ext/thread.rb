@@ -13,4 +13,6 @@ class Thread
   alias ⛔❓ stop?
   alias 💹 value
   alias ⏰ wakeup
+  alias 🚪 exit
+  alias 💲 value
 end
