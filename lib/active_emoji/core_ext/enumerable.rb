@@ -5,6 +5,8 @@ module Enumerable
   alias 🚲 cycle
   alias 🔁🍕 each_slice
   alias 🔎 find
+  alias 🔎📄 find_index
+  alias 🔎 find
   alias 💉 inject
   alias 😴 lazy
   alias 📍 map
